@@ -1,0 +1,6 @@
+3D-Print Setting`s
+
+Slicer: Repetierhost
+---------------------------------------------------
+  Infill: 10%
+  
