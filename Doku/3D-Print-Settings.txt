@@ -3,4 +3,5 @@
 Slicer: Repetierhost
 ---------------------------------------------------
   Infill: 10%
+  Support: nicht nötig
   
