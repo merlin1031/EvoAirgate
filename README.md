@@ -4,6 +4,8 @@ EvoAirgate for ThinyWhoop Copter Race
 ## Was zum Teufel ist ein EvoAirgate?
 Modulares System für den Bau von beleuchteten Air-Gate`s für Race-Drohnen der ThinyWhoop / Blade Inductix Klasse
 
+![EvoAirgate](/Media/EvoAirGate_01.png)
+
 ## Kurzinfos
 * Material: PLA transparent
 * Beleuchtung: LED Stipes WS2812b
