@@ -14,3 +14,8 @@ Zu Weihnachten gab's beim Discounter Lidl sogenannte LED-Effekt Stäbe. Diese si
 * Infill: 20%
 * ohne Support
 * Druckzeit ca. 1,5h
+
+## Ständer-Varianten
+Da bei den PE-Rohren 1-2mm Unterschied im Durchmesser vorkommen können gibt es zwei Varianten der Ständer. Die 43er Variante besitzt fünf kleine Nasen, die auch dünnere Rohre festklemmen. Die Klemmfläche ist bei größeren Durchmessern dann aber noch nicht so groß dass diese auch noch ohne zu viel Kraftaufwand eingeschoben werden können
+* Lidl_LED_Nudel_Ständer (Standart-Variante für Stäbe mit 45mm Durchmesser)
+* Lidl_LED_Nudel_Ständer_43mm (die Variante bis 43mm Durchmesser)
