@@ -29,3 +29,6 @@ Um die Air-Gates nicht nur auf dem Boden abstellen zu können, gibt es jetzt noc
 ![T-Verbinder](/Media/T-Verbinder_01.png)
 
 ![Endkappe](/Media/EndKappe_01.png)
+
+## Steuerung mit Arduino Nano
+Im AUgenblick ist eine kleine Platine für einen Arduino Nano mit Stromversorung aus einem 3S Lipo-Akku angedacht. Weiters an dieser Stelle in Kürze.....
