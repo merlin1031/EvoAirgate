@@ -16,6 +16,9 @@ Modulares System für den Bau von beleuchteten Air-Gates für Race-Drohnen der T
 Die Gates können einfach mit normalen LED-Stripes beleuchtet werden, oder wenn es mit mehr ShowEffekt sein soll, auch mit WS2812b iluminiert werden. Bei WS2812b Led-Streifen besitzt jede LED einen eigenen Controller und kann so individuell angesteuert werden, was sehr spektakuläre Effekte ermöglicht. Die Ansteuerung erfolgt hierbei mittels eines ArduinoNano. Um die Programmierung der LEDs einfach halten zu können, wird auf die FastLED-Lib zugegriffen.
 Weitere Infos zur FastLED gibt es hier: https://github.com/FastLED
 
+## Steuerung mit Arduino Nano
+in Arbeit...
+
 ## Gate-Ständer
 * Material: Elektro-Verlege-Rohre d=25mm
 * Verbindungselemente: 3D-Druckteile (PLA)
