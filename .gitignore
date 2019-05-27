@@ -1,0 +1,6 @@
+# ignore OSx Filesystem-Infos
+.DS_Store
+
+# ignore SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
